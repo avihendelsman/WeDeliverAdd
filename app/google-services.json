@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "447178835467",
+    "firebase_url": "https://shipcalc-freedeliveries-5084d-default-rtdb.firebaseio.com",
+    "project_id": "shipcalc-freedeliveries-5084d",
+    "storage_bucket": "shipcalc-freedeliveries-5084d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447178835467:android:efc1c13644a67825cba90e",
+        "android_client_info": {
+          "package_name": "app.wedeliveradd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447178835467-fldelf4s6d60cct3r7bhb02pgvqbg0a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEW9ry5EXNP4SSrMFXsV_L8Bg-Tzkt-H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447178835467-fldelf4s6d60cct3r7bhb02pgvqbg0a0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
